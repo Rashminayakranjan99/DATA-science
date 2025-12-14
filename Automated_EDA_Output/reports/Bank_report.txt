@@ -1,0 +1,15 @@
+AUTOMATED EDA REPORT
+========================================
+
+Rows: 4521
+Columns: 17
+
+Numerical Columns: 7
+Categorical Columns: 10
+
+Missing Values Per Column:
+age: 0\njob: 0\nmarital: 0\neducation: 0\ndefault: 0\nbalance: 0\nhousing: 0\nloan: 0\ncontact: 0\nday: 0\nmonth: 0\nduration: 0\ncampaign: 0\npdays: 0\nprevious: 0\npoutcome: 0\ny: 0\n
+Insights:
+- Numerical features show varied distributions
+- Categorical features have dominant categories
+- Dataset ready for preprocessing and modeling
